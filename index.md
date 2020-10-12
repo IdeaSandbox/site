@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<figure>
+<picture>
+  <source srcset="/blog_images/idea-sandbox_logo.webp">
+  <img src="/blog_images/idea-sandbox_logo.png" alt="Idea Sandbox Logo" style="width:auto;">
+</picture>
+<picture>
+ <source srcset="/blog_images/Idea_Machine-968x277.webp">
+  <img src="/blog_images/Idea_Machine-968x277" alt="Turn your brain into an idea machine!" style="width:auto;">
+</picture>
+</figure>
 
-You can use the [editor on GitHub](https://github.com/IdeaSandbox/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 style="text-align: center;"> Be more creative. Generate more ideas. Make better decisions.</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IdeaSandbox/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="indent">
+<script type="text/javascript" src="/assets/javascripts/quotes.js"></script>
+<div id="quote-main"></div>
+<div id="quote-author"></div>
+<script language="JavaScript">outputRandomQuote();</script>
+</div>
